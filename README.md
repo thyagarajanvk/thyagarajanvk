@@ -1,12 +1,8 @@
 👋 Hi, I'm Vinithkumar Thyagarajan. 
 I'm interested in:
-- App Development
+- Embedded Systems Programming
 - Game Development
-- Machine Learning
+- App Development
 
-I am currently learning Flutter which uses the dart programming language to create responsive, native apps for both iOS and Android.
-In the future, I wish to learn more about Machine Learning and Game Development
-
-Socials:
-- instagram: @jkuvin
-
+I am currently learning C, and wish to learn eventually create a 3d renderer to make useful visualizations
+for concepts that I am learning in my University Courses.
