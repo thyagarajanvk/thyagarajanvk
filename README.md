@@ -4,5 +4,5 @@ I'm interested in:
 - Game Development
 - App Development
 
-I am currently learning C, and wish to learn eventually create a 3d renderer to make useful visualizations
+I am currently learning C++, and wish to learn eventually create a 3d renderer to make useful visualizations
 for concepts that I am learning in my University Courses.
